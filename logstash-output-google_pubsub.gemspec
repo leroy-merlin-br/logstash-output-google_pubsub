@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name          = 'logstash-output-google_pubsub'
+  s.name          = 'google_pubsub'
   s.version       = '1.0.2'
   s.licenses      = ['Apache-2.0']
   s.summary       = 'Emit output messages to Google Pubsub topic.'
